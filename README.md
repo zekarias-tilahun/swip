@@ -1,7 +1,7 @@
 #SWIP
 #### This is a maven project, and it can be build and set to run in the following simple steps
 1. Download the swip project
-	* The following are the list of properties that need to be set.
+	* Set the following parameters inside the init.txt file that is in the project directory.
 		- **host**			The host name for mysql
 		- **user_name**			The user name for mysql
 		- **password**			The password for mysql
